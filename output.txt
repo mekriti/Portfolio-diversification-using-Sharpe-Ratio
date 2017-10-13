@@ -1,0 +1,3 @@
+output:
+Weights to invest in 'ASHOKLEY.NS','GBTC','GC=F' respectively are
+[ 32.59925863  30.54764218  36.8530992 ]
